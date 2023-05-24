@@ -84,7 +84,7 @@ export class IssLocationScreen extends Component {
                 </Marker>
               </MapView>
             </View>
-                <IssInfo />
+            <IssInfo />
           </ImageBackground>
         </View>
       );
